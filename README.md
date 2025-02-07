@@ -1,5 +1,5 @@
 # pallavipawar.github.io
-# Hi there, I'm Pallavi Pawar! 👋  
+# Hey, I'm Pallavi Pawar! 
 Aspiring Web Developer | Computer Science Engineering Student | Passionate about Interior Designing 
 ## About Me
 - 🎓 Studying Computer Science Engineering at Shri Sant Gajanan Maharaj College of Engineering ,Shegaon 

@@ -1,8 +1,8 @@
 # pallavipawar.github.io
 # Hi there, I'm Pallavi Pawar! 👋  
-Aspiring Interior Designer | Computer Science Engineering Student | Passionate about Web Development
+Aspiring Web Developer | Computer Science Engineering Student | Passionate about Interior Designing 
 ## About Me
-- 🎓 Studying Computer Science Engineering at [Your College Name]  
+- 🎓 Studying Computer Science Engineering at Shri Sant Gajanan Maharaj College of Engineering ,Shegaon 
 - 🌱 Currently learning **Python, Web Development, and GitHub**  
 - 💡 Passionate about **Interior Design, Coding, and Creativity**  
 - 🎨 Love making **Mehendi Designs and Decorations**
@@ -11,7 +11,7 @@ Aspiring Interior Designer | Computer Science Engineering Student | Passionate a
 - 🔧 Tools: **GitHub, VS Code**  
 - 🎨 Interests: **Web Development, UI/UX, Interior Design**
 ## Projects  
-- 🌐 [My Portfolio Website](https://pallavipawar.github.io)  
+- 🌐 [My Portfolio Website -building my own website](https://pallavipawar.github.io)  
 - 🔥 [Project Name 1](GitHub Repo Link)  
 - 🚀 [Project Name 2](GitHub Repo Link)
 ## Connect with Me  

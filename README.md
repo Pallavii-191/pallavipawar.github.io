@@ -16,5 +16,5 @@ Aspiring Web Developer | Computer Science Engineering Student | Passionate about
 - 🚀 [Project Name 2](GitHub Repo Link)
 ## Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Pallavii-191)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](Your LinkedIn Profile Link)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](Your Instagram Profile Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/pallavi-pawar-02b117294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)]https://www.instagram.com/pallaviii_191?igsh=MXdocmZqZWl0YnRuZQ==
